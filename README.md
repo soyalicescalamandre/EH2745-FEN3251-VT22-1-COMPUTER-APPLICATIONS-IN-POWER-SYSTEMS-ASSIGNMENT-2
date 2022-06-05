@@ -15,6 +15,6 @@ All the scripts are "connected" meaning that some modules are used in more than 
 
 ## Please note:
 In the "dscreation_A2" there are some lines that need changes depending on the path of the file in your computer.
-The number of the lines are: 162-164 and 178-180. 
+The number of the lines are: 162-164 and 178-180. Another way is to look for the command "np.genfromtxt".
 
 By Alice Scalamandrè
